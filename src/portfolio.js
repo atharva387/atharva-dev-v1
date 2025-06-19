@@ -177,19 +177,13 @@ const workExperiences = {
       role: "Software Engineer",
       company: "Sofsyst InfoTech pvt ltd",
       companylogo: require("./assets/images/qslogo.png"),
-      date: "August 2024 – Present",
+      date: "June
+        2023 – Present",
       desc: "I am currently a full-time employee at Pranita Enterprises, continuing my work on the hybrid e-commerce platform and various projects like construction, shortcode services, and portfolio websites. My role involves both backend and frontend development, utilizing .NET, C#, HTML, JavaScript, React, and React Native. With expanded responsibilities, I am deepening my expertise in full-stack development and consistently delivering responsive, high-quality web applications that align with client needs.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       // ]
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Quantumsky info pvt ltd",
-      companylogo: require("./assets/images/qslogo.png"),
-      date: "August 2023 – August 2024",
-      desc: "Throughout my 12-month internship with Pranita Enterprises, I improved my.NET, C#, HTML, and JavaScript skills while also contributing to their new hybrid e-commerce website. I gained practical expertise in both frontend and backend programming by working on a variety of projects, such as portfolio websites, shortcode services, and building. In order to increase my technical proficiency, I also investigated React, React Native, and Android Studio. Building responsive, user-friendly applications and strengthening my grasp of full-stack development were made possible by this position."
     },
     {
       
