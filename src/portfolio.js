@@ -175,7 +175,7 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Quantumsky info pvt ltd",
+      company: "Sofsyst InfoTech pvt ltd",
       companylogo: require("./assets/images/qslogo.png"),
       date: "August 2024 – Present",
       desc: "I am currently a full-time employee at Pranita Enterprises, continuing my work on the hybrid e-commerce platform and various projects like construction, shortcode services, and portfolio websites. My role involves both backend and frontend development, utilizing .NET, C#, HTML, JavaScript, React, and React Native. With expanded responsibilities, I am deepening my expertise in full-stack development and consistently delivering responsive, high-quality web applications that align with client needs.",
